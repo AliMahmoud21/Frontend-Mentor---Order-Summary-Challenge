@@ -66,6 +66,7 @@ body {
     margin-top: .125rem;
 }
 .card .subscribe .plan .price h5 { 
+    color: hsl(223, 47%, 23%);
     margin-bottom: .375rem;
     font-weight: 600;
     font-size: .875rem;
